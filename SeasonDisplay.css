@@ -1,0 +1,31 @@
+.icon-left{
+    position:absolute;
+    top:10px;
+    left: 10px;
+    color:orange;
+}
+
+.icon-right{
+    position:absolute;
+    bottom:10px;
+    right: 10px;
+    color:orange;
+}
+
+.gap{
+    padding-top: 200px;
+    text-align: center;
+    color: crimson;
+    height:100vh
+}
+
+.Summer{
+    background-color:darkgoldenrod;
+}
+
+.winter{
+    background-color: aliceblue;
+}
+.center{
+    position: absolute;
+}
